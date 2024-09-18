@@ -1,0 +1,2004 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40"
+> <head>
+			<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1254">
+			<META http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+      </head><head>
+<title>11-09-2024-12:16:38-1542228423798736837696218867Qrukn1Yo</title>
+<!--[if gte mso 9]><xml>
+<o:DocumentProperties>
+<o:Author>Oracle Reports</o:Author>
+<o:Company>Oracle Corporation</o:Company>
+<o:Created>2024-09-11 12-16-39</o:Created></o:DocumentProperties>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:DownloadComponents/>
+<o:DoNotOrganizeInFolder/>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+<x:ExcelWorkbook>
+<x:ExcelWorksheets>
+<x:ExcelWorksheet>
+<x:Name>11-09-2024-12:16:38-1542228423798736837696218867Qrukn1Yo</x:Name>
+<x:WorksheetOptions>
+<x:FitToPage/>
+<x:ProtectContents>False</x:ProtectContents>
+<x:ProtectContents>False</x:ProtectContents>
+</x:WorksheetOptions>
+</x:ExcelWorksheet>
+</x:ExcelWorksheets>
+<x:ProtectStructure>False</x:ProtectStructure>
+<x:ProtectWindows>False</x:ProtectWindows>
+</x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body background="/ows-img/dieimgp.jpg"  text="#0000">
+
+           <p align="center"><strong><medium><p align="center"><strong>TÜRKİYE İSTATİSTİK KURUMU</strong></p></medium></strong></p>
+<p align="center"><strong><small>DIŞ TİCARET İSTATİSTİKLERİ VERİ TABANI</small></strong></p>
+<hr size=5 noshade><TABLE ><TR>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">GTIP&quot;e göre dış ticaret</SPAN></TD>
+</TR>
+</TABLE>
+<TABLE ><TR>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Rapor tarihi:11/09/2024</SPAN></TD>
+</TR>
+</TABLE>
+<TABLE ><TR>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> </SPAN></TD>
+</TR>
+</TABLE>
+<TABLE ><TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+</TR>
+</TABLE>
+<TABLE ><TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+</TR>
+</TABLE>
+<TABLE border="0" cellspacing="0" width="100%"><TR>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">Yıl</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">HS12</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">HS12 adı</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ölçü adı</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İhracat Miktar 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İhracat Miktar 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İthalat Miktar 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İthalat Miktar 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İhracat Dolar</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #7f0000; FONT-STYLE: normal; FONT-WEIGHT: 700">İthalat Dolar</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">2024</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">1</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 18</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 19</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.297</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.995</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 40</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 164.410</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.295</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 22</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 406.636</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.618</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 213</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 17.078</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.775.082</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 796</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 974</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 390.713</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 340.096</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 260.426</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.337</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 96.517</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.247.347</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.461</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 558.962</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.297</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 521.801</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 335</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.204</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 105.311</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.716</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 49.501</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 127.095</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 42.434.965</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.669</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.448</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 63.554.484</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 23.134.409</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 65</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 348.438</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.221</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 88.575</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 85.187</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 77.246.152</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 273.468</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 152.560</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 64.277.597</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 148.287.604</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">2</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 11</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 39</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 312</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 48.571</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 13</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 49</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 377</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 101.931</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.401</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 488.355</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 32</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 533</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.431</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.623.766</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190981000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 10</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 19</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 13.309</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 404</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.191</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 227.539</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 377.706</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 601.781</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.526</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 207.472</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.581.431</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 8.510</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 871.611</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 10.053</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 9.839.611</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 350</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.456</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 114.956</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.436</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 51.352</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 32.079</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 51.970.916</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.246</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.864</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 53.213.434</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 28.555.510</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 442</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.303</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.663.978</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.619</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 121.931</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 359.281</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 126.130.244</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241901000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Çocuk felci aşıları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.558</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 889.776</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 606.548</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 200.809</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 54.048.703</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 229.271.671</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">3</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 8</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 50</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 264</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 57.354</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 141.092</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.447</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 119</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.498</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 73.394</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 707.632</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 48</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 187</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.198</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.097.351</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 42</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.125</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.859</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 255.480</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 463.002</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 949</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 181.051</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.235.552</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.944</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 597.020</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.688</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 7.002.096</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 53</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 378</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.457</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 119.829</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 206.558</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 48.902</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 635.771</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 35.187.979</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.102</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.923</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 83.684.992</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 27.611.292</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 806</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 8.927.302</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 917</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 83.041</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 103.580</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 127.928.766</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241901000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Çocuk felci aşıları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 437.306</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241902014</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karma aşı (DBT)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 154</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.087.743</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 672.853</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 148.650</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 84.828.658</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 214.256.149</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">4</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 17</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 6</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 494</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.389</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 16</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 381</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.688</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 306.072</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 24</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 353</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.468</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.255.857</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 41</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 384</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 587</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 323.205</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 498.919</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.590</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 154.891</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 238.992</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 151</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 12.736</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.777</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.266.786</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 339</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 96.491</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 35.100</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 37.376</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 316.147</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 27.306.769</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.472</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.266</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 59.202.463</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 37.082.771</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 726</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 8.263.003</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 582</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 80.836</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 104.710</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 93.807.335</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241902014</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karma aşı (DBT)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.857</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 6.517.795</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 536.171</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 133.350</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 59.782.141</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 179.483.203</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">5</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 27</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 27</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 782</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 28.479</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 47</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 300</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 6</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.330</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.157</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 465.348</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 16</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 466</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.259</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.466.452</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190981000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 141</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 66</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.870</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 30.155</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 788.128</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 525.852</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.775</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 221.326</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.558.750</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4.769</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 120</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 523.860</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 7.326</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.356.468</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 384</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 918</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 123.304</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.320</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 47.569</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 90.715</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 44.427.373</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.617</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.349</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 67.336.684</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 19.750.840</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 430</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 8.017.862</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 9.906</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 100.143</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 403.043</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 89.677.745</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241901000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Çocuk felci aşıları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 25</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 460.283</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241902014</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karma aşı (DBT)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 258</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.060.485</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241902016</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tifo aşısı</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 167</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 122.627</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 540.819</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 169.889</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 68.086.347</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 175.828.304</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">6</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 82</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 106</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 4</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 48</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 61</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.127</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 13.208</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 426.608</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 363</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 514</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.891.650</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190981000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 67</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 81</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 271</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 12.557</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 294.140</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 459.913</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 767</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 171.011</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 200.710</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 12.198</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 954.372</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2.183</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 88</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.106.427</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 374</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 7.360</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 115.322</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 181.390</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 44.568</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 571.308</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 26.553.034</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.992</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 300</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 77.621.442</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 5.403.899</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 34</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 249.476</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 26.645</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 66.536</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 283.618</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 71.398.003</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241901000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Çocuk felci aşıları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 229.538</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 670.095</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 129.725</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 78.681.303</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 113.823.285</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">7</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120100000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 16</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 140</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300120900000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddelerin veya diğer organların veya bunların salgılarının hülasaları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 24</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 663</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190200000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan insan menşeli kurutulmuş guddeler ve diğer organlar, heparin ve tuzları, insan menşeli diğer maddele</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 29</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 908</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 28.436</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 367.268</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190910000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Heparin ve tuzları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 420</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.660.246</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190981000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 2</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 153</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300190989000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Tedavide kullanılan hayvan menşeli kurutulmuş guddeler ve diğer organlar (toz haline getirilmiş olanlar HARİÇ), hayvan m</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 34</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 221</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 399</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 122.517</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000019</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Diğer antiserumlar</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 487.049</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.892</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 246.912</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.329.042</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000021</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Hemoglobin</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 6.245</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 812.638</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000022</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 873</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 223.215</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000023</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Serum globulinleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 233</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 66.169</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300212000029</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Kan fraksiyonlarının diğerleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 256.003</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 85.244</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 693.197</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 33.740.066</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300213000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 71</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1.473</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.236.219</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 27.366.014</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300214000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karışım halinde bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış veya hazırlanm</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 151</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 428.767</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300215000000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış veya hazırlanmış bağışıklık ürünleri</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 13.219</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 96.501</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 594.350</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 102.162.723</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241901000</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Çocuk felci aşıları</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 1</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 229.538</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">300241902014</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">Karma aşı (DBT)</SPAN></TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">KG</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 3.330</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400"> 605.662</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Ay toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 756.410</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 197.511</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 4.799.690</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 171.114.668</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+<TR>
+<TD ALIGN="left" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700">Yıl toplamı:</SPAN></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 4.056.364</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 1.132.494</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 0</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 414.504.439</SPAN></TD>
+<TD ALIGN="right" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 700"> 1.232.064.884</SPAN></TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+<TD ALIGN="right" DIR="LTR">&nbsp;</TD>
+</TR>
+</TABLE>
+<TABLE ><TR>
+<TD ALIGN="left" DIR="LTR"><SPAN STYLE="FONT-SIZE: 8pt; FONT-FAMILY: arial; COLOR: #000000; FONT-STYLE: normal; FONT-WEIGHT: 400">2024 yılı verileri geçicidir.</SPAN></TD>
+</TR>
+</TABLE>
+</body></html>
